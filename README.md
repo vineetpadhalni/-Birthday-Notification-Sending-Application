@@ -29,4 +29,4 @@ Express.js: Framework for building the backend services.
 
 Nodemailer: For sending email notifications.
 
-MySQL: Database to store user details.
+MongoDB: Database to store user details.
