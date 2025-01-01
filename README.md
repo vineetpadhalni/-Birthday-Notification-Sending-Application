@@ -16,9 +16,8 @@ User Management: Manage user data for seamless operations.
 Technologies Used
 
 Frontend
-
+React: For building interactive user interfaces.
 HTML/CSS: For structuring and styling the web pages.
-
 JavaScript: For dynamic interactions and functionality.
 
 Backend
@@ -27,6 +26,6 @@ Node.js: Server-side logic and API handling.
 
 Express.js: Framework for building the backend services.
 
-Nodemailer: For sending email notifications.
+Nodemailer: For sending email notifications
 
 MongoDB: Database to store user details.
